@@ -1,0 +1,37 @@
+timestamp=1724830107111
+
+[~A]
+LastVerilogToplevel=jfsmMealyWithOverlapTb
+ModifyID=1
+Version=74
+design.sv_testbench.sv=0*681*1639
+
+[~MFT]
+0=5|0work.mgf|1639|0
+1=3|1work.mgf|2628|0
+3=6|3work.mgf|4075|0
+
+[$root]
+A/$root=22|||1*0
+BinL64/$root=3*0
+SLP=3*106
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|c73a565f2ade592f8ac1c68f484c921643f397697962519877600aa1673a9147
+
+[jfsmMealyWithOverlap]
+A/jfsmMealyWithOverlap=22|../design.sv|4|1*390
+BinL64/jfsmMealyWithOverlap=3*174
+R=../design.sv|4
+SLP=3*1979
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|92fbfe4482a74f9543c548354e54400502c5f32bb49dc93ea3cedf5b264298f07df34e8abade3bc6dd7c021b15451d22
+
+[jfsmMealyWithOverlapTb]
+A/jfsmMealyWithOverlapTb=22|../testbench.sv|4|1*2628
+BinL64/jfsmMealyWithOverlapTb=3*2668
+R=../testbench.sv|4
+SLP=3*4075
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|92fbfe4482a74f9543c548354e54400591ae0eabc0297a799cc4226c77d068d21edc8f1272570f55983d47303bc78eb6
+
+[~U]
+$root=12|0*0|
+jfsmMealyWithOverlap=12|0*198|
+jfsmMealyWithOverlapTb=12|0*489||0x10
